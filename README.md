@@ -2,7 +2,7 @@ I’m interested in how AI can enhance human capacities—not only by automating
 
 My work follows that question from individual understanding to collective judgment. I design and build working prototypes to explore where AI can genuinely extend human capability, and where it needs to remain bounded by human values and oversight.
 
-## The thread through my work
+## My work
 
 ### Learnscape — AI for learning
 
