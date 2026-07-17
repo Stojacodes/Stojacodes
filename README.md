@@ -1,5 +1,3 @@
-Alex Stojanovic
-
 I’m interested in how AI can enhance human capacities—not only by automating tasks, but by helping people learn, think, decide and act with greater agency.
 
 My work follows that question from individual understanding to collective judgment. I design and build working prototypes to explore where AI can genuinely extend human capability, and where it needs to remain bounded by human values and oversight.
