@@ -28,4 +28,4 @@ Learnscape asked how AI might help a person navigate knowledge. Deliberate asks 
 ## Writing
 
 - [Beyond Automated Politics: A Response](https://democraticfuturist.substack.com/p/beyond-automated-politics-a-response) — the argument that led to Deliberate
-- [We don't know what we want and neither does AI]([url](https://open.substack.com/pub/democraticfuturist/p/we-dont-know-what-we-want-and-neither?r=6a4bjp&utm_campaign=post&utm_medium=web)) - A write up of my expeirments so far
+- [We don't know what we want and neither does AI]((https://open.substack.com/pub/democraticfuturist/p/we-dont-know-what-we-want-and-neither?r=6a4bjp&utm_campaign=post&utm_medium=web)) - A write up of my expeirments so far
