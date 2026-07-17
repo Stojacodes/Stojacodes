@@ -6,9 +6,9 @@ My work follows that question from individual understanding to collective judgme
 
 ### Learnscape — AI for learning
 
-Learnscape explored whether generative AI could turn curiosity into a structured route through knowledge. Starting from a topic or question, the prototype generated an accessible video course designed to help someone enter an unfamiliar subject and develop their understanding.
+[Learnscape]([url](https://learnscape-ai.netlify.app)) explored whether generative AI could turn curiosity into a structured route through knowledge. Starting from a topic or question, the prototype generated an accessible video course designed to help someone enter an unfamiliar subject and develop their understanding.
 
-The project began with a simple question: **can AI make high-quality, self-directed learning easier to begin and sustain?**
+The project began with frustration at switching between youtube videos with little structure. It then evolved based on the question: **can AI make high-quality, self-directed learning easier to begin and sustain?**
 
 ### Deliberate — AI for judgment and coordination
 
